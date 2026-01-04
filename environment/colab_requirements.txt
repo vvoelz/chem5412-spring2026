@@ -1,0 +1,8 @@
+biopython
+mdtraj
+py3Dmol
+nglview
+pandas
+matplotlib
+scipy
+
