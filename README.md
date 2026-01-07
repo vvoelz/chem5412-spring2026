@@ -29,6 +29,8 @@ Course materials for CHEM 5412 Structural Bioinformatics II (Spring 2026)
 
 3. Getting started with Google Colab: `notebooks/00_getting_started.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vvoelz/chem5412-spring2026/blob/main/notebooks/00_getting_started.ipynb)
 
+4. PDB I/O  `notebooks/01_pdb_io.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vvoelz/chem5412-spring2026/blob/main/notebooks/01_pdb_io.ipynb)
+
 ### Resources 
 
 #### Software for visualizing PDB structures
