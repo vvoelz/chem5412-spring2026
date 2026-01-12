@@ -20,6 +20,7 @@ Course materials for CHEM 5412 Structural Bioinformatics II (Spring 2026)
 ### Resources 
 
 * [BioPython Tutorial and Cookbook](https://biopython.org/docs/latest/Tutorial/index.html)
+* [Retrieving Information from the PDB using the Web API](https://education.molssi.org/python-scripting-biochemistry/chapters/rcsb_api.html)
 
 
 #### Software for visualizing PDB structures
