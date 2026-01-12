@@ -20,6 +20,9 @@ Course materials for CHEM 5412 Structural Bioinformatics II (Spring 2026)
 
 ### Resources 
 
+* [BioPython Tutorial and Cookbook](https://biopython.org/docs/latest/Tutorial/index.html)
+
+
 #### Software for visualizing PDB structures
 
 * [UCSF ChimeraX](https://www.rbvi.ucsf.edu/chimerax/) - latest release version 1.11 recommended 
