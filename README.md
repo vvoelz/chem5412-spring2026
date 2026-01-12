@@ -1,22 +1,7 @@
 # chem5412-spring2026
 Course materials for CHEM 5412 Structural Bioinformatics II (Spring 2026)
 
-# Table of Contents
-
 ## Week 1 
-
-<details>
-<summary><strong>Week 1 </strong></summary>
-
-*   Content for the first tab goes here.
-*   You can use Markdown syntax within the details body, like lists, **bold text**, or `inline code`.
-*   Ensure there is an empty line after the closing `</summary>` tag for the Markdown rendering to work properly inside the details block.
-
-</details>
-
-<details>
-<summary><strong>Tab Title 2</strong></summary>
-</details>
 
 ### Reading
 
@@ -40,6 +25,3 @@ Course materials for CHEM 5412 Structural Bioinformatics II (Spring 2026)
 * [PyMOL](https://www.pymol.org/)
 * [VMD](https://www.ks.uiuc.edu/Research/vmd/) Visual Molecular Dynamics - v1.9.4 recommended. This application excels at visualizing MD trajectories. 
 
-
-
-## Week 2
