@@ -5,7 +5,7 @@ Course materials for CHEM 5412 Structural Bioinformatics II (Spring 2026)
 
 ### Reading
 
-[PDB-101: A Guide to Understanding PDB Data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/structure-factors-and-electron-density) 
+[PDB-101: A Guide to Understanding PDB Data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data) 
 
 ### Classroom 
 
