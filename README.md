@@ -69,4 +69,19 @@ David Baker, Nobel Prize in Chemistry 2024 [Nobel Lecture](https://www.youtube.c
 </details>
 
 
+## Week 4: AI-based tools for structure prediction: the AlphaFold era
+
+
+### Reading
+
+### Classroom 
+
+1. Lecture notes: TBA
+2. Colab notebooks
+   
+### Resources and Links
+
+* [CASP16](https://predictioncenter.org/casp16/index.cgi)
+* [CASP16 Targets](https://predictioncenter.org/casp16/targetlist.cgi)
+* CASP16 [Results for Protein Domains](https://predictioncenter.org/casp16/results.cgi?tr_type=regular)
 
