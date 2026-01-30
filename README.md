@@ -1,7 +1,12 @@
 # chem5412-spring2026
 Course materials for CHEM 5412 Structural Bioinformatics II (Spring 2026)
 
+
 ## Week 1: Intro to Structural Bioinformatics II
+
+<details>
+   
+<summary>Week 1 material</summary>
 
 ### Reading
 
@@ -31,6 +36,7 @@ Course materials for CHEM 5412 Structural Bioinformatics II (Spring 2026)
 * [VMD](https://www.ks.uiuc.edu/Research/vmd/) Visual Molecular Dynamics - v1.9.4 recommended. This application excels at visualizing MD trajectories. 
 
 
+</details>
 
 ## Week 2
 
@@ -39,23 +45,28 @@ No class due to MLK Holiday
 
 ## Week 3: Protein folding and the structure prediction problem
 
+<details>   
+<summary>Week 3 material</summary>
+   
 ### Reading
-
 
 ### Classroom 
 
-1. Lecture notes: [Intro to Structural Bioinformatics II](https://templeu.instructure.com/courses/168964/files/37629788?module_item_id=8694021)
+1. Lecture notes: [Protein Folding and Structure Prediction (Part I)](https://templeu.instructure.com/courses/168964/files/37858171?module_item_id=8744615)
    
 2. Recording of [Zoom lecture](https://temple.zoom.us/rec/share/fWr0Lqh4Nk2bBppzEcTAw-zQHu4dEi_m8C3UQgm3EklZI_YlndJz5WhTYdUzcbyn.A8KTyxRLvrSYdH4e)
 
+### Resources and Links
 
-### Resources 
+The CASP (Critical Assessment of Structure Prediction) Challenges: [Protein Structure Prediction Center](https://predictioncenter.org/)
 
 David Baker (University of Washington/HHMI) Youtube lectures (from 2011):
 * [Part 1: Introduction to Protein Design](https://www.youtube.com/watch?v=0LetJMbu7uY)
 * [Part 2: Design of New Protein Functions](https://www.youtube.com/watch?v=ZrAwWx7meTk)
 
 David Baker, Nobel Prize in Chemistry 2024 [Nobel Lecture](https://www.youtube.com/watch?v=KbDvQgsOI-E)
+
+</details>
 
 
 
