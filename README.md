@@ -81,7 +81,15 @@ David Baker, Nobel Prize in Chemistry 2024 [Nobel Lecture](https://www.youtube.c
    
 ### Resources and Links
 
+CASP
+
 * [CASP16](https://predictioncenter.org/casp16/index.cgi)
 * [CASP16 Targets](https://predictioncenter.org/casp16/targetlist.cgi)
 * CASP16 [Results for Protein Domains](https://predictioncenter.org/casp16/results.cgi?tr_type=regular)
+
+ColabFold
+
+* Mirdita, M., Schütze, K., Moriwaki, Y. et al. ColabFold: making protein folding accessible to all. Nat Methods 19, 679–682 (2022). [https://doi.org/10.1038/s41592-022-01488-1](https://doi.org/10.1038/s41592-022-01488-1)
+
+* [ColabFold GitHub](https://github.com/sokrypton/ColabFold?tab=readme-ov-file)
 
