@@ -1,0 +1,18 @@
+[{
+ "name": "vav 2026-01-31_15:42",
+ "modelSeeds": [
+  "282937161"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "KPTENNEDFNIVAVASNFATTDLDADRGKLPGKKLPLEVLKEMEANARKAGCTRGCLICLSHIKCTPKMKKFIPGRCHTYEGDKESAQGGIGEAIVDIPAIPRFKDLEPMEQFIAQVDLCVDCTTGCLKGLANVQCSDLLKKWLPQRCATFASKIQGQVDKIKGAGGD",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
