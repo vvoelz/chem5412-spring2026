@@ -86,6 +86,7 @@ CASP
 * [CASP16](https://predictioncenter.org/casp16/index.cgi)
 * [CASP16 Targets](https://predictioncenter.org/casp16/targetlist.cgi)
 * CASP16 [Results for Protein Domains](https://predictioncenter.org/casp16/results.cgi?tr_type=regular)
+* CASP 16 Special Issue in PROTEINS: https://onlinelibrary.wiley.com/toc/10970134/2026/94/1
 
 ColabFold
 
