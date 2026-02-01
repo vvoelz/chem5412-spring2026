@@ -77,7 +77,7 @@ David Baker, Nobel Prize in Chemistry 2024 [Nobel Lecture](https://www.youtube.c
 ### Classroom 
 
 1. Lecture notes: TBA
-2. Colab notebooks
+2. Colab notebook: Example for Assignment 1: `notebooks/02_structure_prediction.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vvoelz/chem5412-spring2026/blob/main/notebooks/02_structure_prediction.ipynb) 
    
 ### Resources and Links
 
