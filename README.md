@@ -74,6 +74,14 @@ David Baker, Nobel Prize in Chemistry 2024 [Nobel Lecture](https://www.youtube.c
 
 ### Reading
 
+Jumper, John, Richard Evans, Alexander Pritzel, et al. “Highly Accurate Protein Structure Prediction with AlphaFold.” Nature 596, no. 7873 (2021): 583–89. https://doi.org/10.1038/s41586-021-03819-2.
+
+Abramson, Josh, Jonas Adler, Jack Dunger, et al. “Accurate Structure Prediction of Biomolecular Interactions with AlphaFold 3.” Nature 630, no. 8016 (2024): 493–500. https://doi.org/10.1038/s41586-024-07487-w.
+
+Lin, Zeming, Halil Akin, Roshan Rao, et al. “Evolutionary-Scale Prediction of Atomic-Level Protein Structure with a Language Model.” Science 379, no. 6637 (2023): 1123–30. https://doi.org/10.1126/science.ade2574.
+
+
+
 ### Classroom 
 
 1. Lecture notes: TBA
