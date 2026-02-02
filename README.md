@@ -77,7 +77,12 @@ David Baker, Nobel Prize in Chemistry 2024 [Nobel Lecture](https://www.youtube.c
 ### Classroom 
 
 1. Lecture notes: TBA
-2. Colab notebook: Example for Assignment 1: `notebooks/02_structure_prediction.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vvoelz/chem5412-spring2026/blob/main/notebooks/02_structure_prediction.ipynb) 
+
+### Assignment 1:  Protein Structure Prediction 
+
+1. Assignment 1 Instructions [Google Doc](https://docs.google.com/document/d/1Xq1oCiqk3GRiDdmGxceRBJaIwuFMb8veVqoJCjoaId0/edit?usp=sharing)
+2. List of [Assigned Targets](https://github.com/vvoelz/chem5412-spring2026/tree/main/data/assignment01)
+3. Colab notebook: Example for Assignment 1: `notebooks/02_structure_prediction.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vvoelz/chem5412-spring2026/blob/main/notebooks/02_structure_prediction.ipynb)
    
 ### Resources and Links
 
