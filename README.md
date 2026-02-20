@@ -71,7 +71,9 @@ David Baker, Nobel Prize in Chemistry 2024 [Nobel Lecture](https://www.youtube.c
 
 ## Week 4: AI-based tools for structure prediction: the AlphaFold era
 
-
+<details>   
+<summary>Week 4 material</summary>
+   
 ### Reading
 
 Jumper, John, Richard Evans, Alexander Pritzel, et al. “Highly Accurate Protein Structure Prediction with AlphaFold.” Nature 596, no. 7873 (2021): 583–89. https://doi.org/10.1038/s41586-021-03819-2.
@@ -106,4 +108,46 @@ ColabFold
 * Mirdita, M., Schütze, K., Moriwaki, Y. et al. ColabFold: making protein folding accessible to all. Nat Methods 19, 679–682 (2022). [https://doi.org/10.1038/s41592-022-01488-1](https://doi.org/10.1038/s41592-022-01488-1)
 
 * [ColabFold GitHub](https://github.com/sokrypton/ColabFold?tab=readme-ov-file)
+
+
+</details>
+
+## Week 5: Introduction to Virtual Screening
+
+<details>   
+<summary>Week 5 material</summary>
+   
+
+### Classroom 
+
+1. Lecture notes: [Introduction to Virtual Screening](https://templeu.instructure.com/courses/168964/modules/items/8762714)
+
+
+   
+### References
+
+</details>
+
+## Week 6: Introduction to Virtual Screening - Part II
+
+  
+<summary>Week 6 material</summary>
+   
+
+### Classroom 
+
+1. Lecture notes: [Structure-Based Virtual Screening](https://templeu.instructure.com/courses/168964/modules/items/8772017)
+
+### Assignment 2:  Virtual Screening with Autodock Vina
+
+1. Assignment 2 Instructions [Google Doc](https://docs.google.com/document/d/1T4cuU7S2ydSFtaIAL3gEgC8PqmeGrJ-N_2eY08bjL3A/edit?usp=sharing)
+2. Colab notebook: Example for Assignment 2: `notebooks/03_virtual_screening.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vvoelz/chem5412-spring2026/blob/main/notebooks/03_virtual_screening.ipynb)
+   
+### References
+
+
+
+
+
+
 
