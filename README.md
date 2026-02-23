@@ -152,7 +152,7 @@ ColabFold
 
 ### Classroom 
 
-1. Lecture notes: (Introduction to Molecular Simulation: Part I]
+1. Lecture notes: [Introduction to Molecular Simulation: Part I](https://templeu.instructure.com/courses/168964/modules/items/8782472)
 
    
 ### References
