@@ -130,7 +130,7 @@ ColabFold
 
 ## Week 6: Introduction to Virtual Screening - Part II
 
-  
+<details>     
 <summary>Week 6 material</summary>
    
 
@@ -142,9 +142,24 @@ ColabFold
 
 1. Assignment 2 Instructions [Google Doc](https://docs.google.com/document/d/1T4cuU7S2ydSFtaIAL3gEgC8PqmeGrJ-N_2eY08bjL3A/edit?usp=sharing)
 2. Colab notebook: Example for Assignment 2: `notebooks/03_virtual_screening.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vvoelz/chem5412-spring2026/blob/main/notebooks/03_virtual_screening.ipynb)
+
+</details>   
+
+## Week 7: Introduction to Molecular Simulation
+
+
+<summary>Week 7 material</summary>
+
+### Classroom 
+
+1. Lecture notes: (Introduction to Molecular Simulation: Part I]
+
    
 ### References
 
+1. Andrew Leach. Molecular Modelling: Principles and Applications, Prentice Hall, 2001.
+2. Alan Hinchliffe. Molecular Modelling for Beginners, (2nd Edition) John Wiley & Sons, 2008.
+3. Daan Frenkel, Berend Smit. Understanding Molecular Simulation From Algorithms to Applications, (2nd Edition) Academic Press, 2001.
 
 
 
