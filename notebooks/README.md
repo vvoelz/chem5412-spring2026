@@ -14,4 +14,9 @@ An example notebook for Assignment 1: Protein Structure Prediction `02_structure
 An example notebook for Assignment 2:  Virtual Screening with AutoDock Vina `03_virtual_screening.ipynb`  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vvoelz/chem5412-spring2026/blob/main/notebooks/03_virtual_screening.ipynb)
 
 
+## Week 9
+
+An example notebook for Assignment 3:  Assignment 3:  Introduction to Molecular Simulation using GROMACS `04_molecular_simulation.ipynb`  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vvoelz/chem5412-spring2026/blob/main/notebooks/04_molecular_simulation.ipynb)
+
+
 
