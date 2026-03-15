@@ -161,8 +161,24 @@ ColabFold
 2. Alan Hinchliffe. Molecular Modelling for Beginners, (2nd Edition) John Wiley & Sons, 2008.
 3. Daan Frenkel, Berend Smit. Understanding Molecular Simulation From Algorithms to Applications, (2nd Edition) Academic Press, 2001.
 
+## Week 8: SPRING BREAK
 
+## Week 9: Molecular Dynamics: Numerical integration and sampling
 
+<summary>Week 9 material</summary>
 
+### Classroom 
 
+1. Lecture notes: [Molecular Dynamics algorithms](https://templeu.instructure.com/courses/168964/modules/items/8800876)
 
+### Assignment 3: Introduction to molecular simulation in GROMACS 
+
+Assignment 3 Instructions [Google Doc](https://docs.google.com/document/d/1R4w7_ffm8IvGD5IOYhI00utJS4XPj9iEbd-oWld4tXM/edit?usp=sharing)
+
+Some notes on this assignment:
+* The NVT and NPT steps on the default Google Colab Runtime instance take ~28 minutes each (!) -- so if possible, you might want to try running on a Runtime with more cores.
+* Since it took me sop long to post this assignment, I have have extended the deadline by a week, to March 30. 
+
+## Week 10: Machine learning methods for simulation analysis
+
+<summary>Week 10 material</summary>
