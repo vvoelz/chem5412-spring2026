@@ -173,7 +173,8 @@ ColabFold
 
 ### Assignment 3: Introduction to molecular simulation in GROMACS 
 
-Assignment 3 Instructions [Google Doc](https://docs.google.com/document/d/1R4w7_ffm8IvGD5IOYhI00utJS4XPj9iEbd-oWld4tXM/edit?usp=sharing)
+1. Assignment 3 Instructions [Google Doc](https://docs.google.com/document/d/1R4w7_ffm8IvGD5IOYhI00utJS4XPj9iEbd-oWld4tXM/edit?usp=sharing)
+2. Colab notebook: `notebooks/04_molecular_simulation.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vvoelz/chem5412-spring2026/blob/main/notebooks/04_molecular_simulation.ipynb)
 
 Some notes on this assignment:
 * The NVT and NPT steps on the default Google Colab Runtime instance take ~28 minutes each (!) -- so if possible, you might want to try running on a Runtime with more cores.
