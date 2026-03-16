@@ -183,3 +183,7 @@ Some notes on this assignment:
 ## Week 10: Machine learning methods for simulation analysis
 
 <summary>Week 10 material</summary>
+
+### Classroom
+
+1. Lecture notes: [Machine Learning for Trajectory Analysis](https://templeu.instructure.com/courses/168964/modules/items/8811853)
